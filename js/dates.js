@@ -13,6 +13,7 @@ function getDay(date, lang) {
       5: 'Friday',
       6: 'Saturday',
     },
+
     ru: {
       0: 'Воскресенье',
       1: 'Понедельник',
